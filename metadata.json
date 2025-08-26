@@ -1,0 +1,6 @@
+{
+  "name":"Solana example token",
+  "symbol":"mnt",
+  "description":"Example token for my first minted solana token",
+  "image":"https://github.com/svian-s/solana-token-cli/blob/main/DRAWINGS%2001-Sketches-6.v3.png"
+}
